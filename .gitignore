@@ -1,0 +1,6 @@
+*.spec
+*.xlsx
+dist
+virenv
+build
+__pycache__
